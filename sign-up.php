@@ -43,9 +43,8 @@
 
     <!--header-->
     <div class="wide small">
-        <div class="col-md-3"></div>
-        <div class="col-md-6 logo">Register</div>
-        <div class="col-md-3"></div>
+        <div class="col-md-5 logo">Sign Up</div>
+        <div class="col-md-7"></div>
     </div>
 
     <!-- Page Content -->

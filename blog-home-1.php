@@ -40,9 +40,8 @@
 
     <!--header-->
     <div class="wide small">
-        <div class="col-md-3"></div>
-        <div class="col-md-6 logo">Events</div>
-        <div class="col-md-3"></div>
+        <div class="col-md-5 logo">Events</div>
+        <div class="col-md-7"></div>
     </div>
 
     <!-- Page Content -->

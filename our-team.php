@@ -39,9 +39,8 @@
     <?php include 'navbar.php';?>
 
     <div class="wide small-our-team">
-        <div class="col-md-3"></div>
-        <div class="col-md-6 logo">Meet the Team</div>
-        <div class="col-md-3"></div>
+        <div class="col-md-5 logo">Meet the Team</div>
+        <div class="col-md-7"></div>
     </div>
 
     <!-- Page Content -->
