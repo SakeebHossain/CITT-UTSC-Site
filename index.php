@@ -73,7 +73,7 @@
                     <div class="panel-body">
                         <h4>Events</h4>
                         <p>Learn all about our upcoming and previous events.</p>
-                        <a href="blog-home-1.html" class="btn btn-primary">Learn More</a>
+                        <a href="blog-home-1.php" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -88,7 +88,7 @@
                     <div class="panel-body">
                         <h4>Publications</h4>
                         <p>Learn about what students voice for in their education, their community, and their lives.</p>
-                        <a href="publications.html" class="btn btn-primary">Learn More</a>
+                        <a href="publications.php" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -103,7 +103,7 @@
                     <div class="panel-body">
                         <h4>Register</h4>
                         <p>Become a CITT Member and expose yourself to a bigger platform for open thinking.</p>
-                        <a href="sign-up.html" class="btn btn-primary">Learn More</a>
+                        <a href="sign-up.php" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>

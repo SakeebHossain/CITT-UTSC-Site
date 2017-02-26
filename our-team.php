@@ -51,21 +51,21 @@
 
 
       <!-- Modal 1---------------------------------------------------------------------->
-      <?php include 'omer.php';?>
-      <?php include 'bilal.php';?>
-      <?php include 'myla.php';?>
-      <?php include 'fiona.php';?>
-      <?php include 'hamna.php';?>
-      <?php include 'hamza.php';?>
-      <?php include 'omer.php';?>
-      <?php include 'rufaida.php';?>
-      <?php include 'bisesh.php';?>
-      <?php include 'sakshi.php';?>
-      <?php include 'anantan.php';?>
-      <?php include 'sadia.php';?>
-      <?php include 'fasee.php';?>
-      <?php include 'judy.php';?>
-      <?php include 'sakeeb.php';?>
+      <?php include 'our-team/omer.php';?>
+      <?php include 'our-team/bilal.php';?>
+      <?php include 'our-team/myla.php';?>
+      <?php include 'our-team/fiona.php';?>
+      <?php include 'our-team/hamna.php';?>
+      <?php include 'our-team/hamza.php';?>
+      <?php include 'our-team/omer.php';?>
+      <?php include 'our-team/rufaida.php';?>
+      <?php include 'our-team/bisesh.php';?>
+      <?php include 'our-team/sakshi.php';?>
+      <?php include 'our-team/anantan.php';?>
+      <?php include 'our-team/sadia.php';?>
+      <?php include 'our-team/fasee.php';?>
+      <?php include 'our-team/judy.php';?>
+      <?php include 'our-team/sakeeb.php';?>
 
 
         <!-- Team Members ---------------------------------------------------------------------->
