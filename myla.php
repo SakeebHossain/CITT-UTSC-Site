@@ -1,10 +1,10 @@
-      <div class="modal fade" id="Omer" role="dialog">
+      <div class="modal fade" id="Myla" role="dialog">
         <div class="modal-dialog">
           <!-- Modal content-->
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal">&times;</button>
-              <h4 class="modal-title">Omer Mustafa</h4>
+              <h4 class="modal-title">Myla Dimagiba</h4>
             </div>
             <div class="modal-body">
               <div class="row">
@@ -20,27 +20,27 @@
                       <p>
                         <strong>Q:</strong> <i>Program/Year?</i>
                         <br/>
-                        <strong>A:</strong> Life Sciences, Year 2.
+                        <strong>A:</strong> Co-op Management, Year 2.
                     </p>
                     <p>
                         <strong>Q:</strong> <i>What made you become part of CITT UTSC?</i>
                         <br/>
-                        <strong>A:</strong> The desire to tackle local issues in the community. I believe that there are already many organizations looking to tackle issues seen across the globe, and I think it’s awesome that people are looking for ways to make the world a better place. But, I feel like we can do our part by looking at the specific issues that face our cities and communities and look to solve these issues through the critical viewpoints of the students of UTSC. 
+                        <strong>A:</strong> As the General Secretary, I decided to use my knowledge and experience in club management to help kick-start CITT’s strategical growth and potential on campus.
                     </p>
                     <p>
                         <strong>Q:</strong> <i>What is your favourite food?</i>
                         <br/> 
-                        <strong>A:</strong> I love good food, in particular, some of my favourite foods include pizza and burgers but most of all, I love biryani.
+                        <strong>A:</strong> My favorite food is undoubtedly seafood udon soup.
                     </p>
                     <p>
                         <strong>Q:</strong> <i>What is your favourite hobby?</i>
                         <br/>
-                        <strong>A:</strong> One of my most favourite hobbies is to go out for a couple of hours and play soccer with my friends. 
+                        <strong>A:</strong> I really enjoy dancing and performing on stage, as well as playing piano and violin for community events.
                     </p>
                     <p>
                         <strong>Q:</strong> <i>If you can have any super power, what would it be?</i>
                         <br/>
-                        <strong>A:</strong> If I could have a superpower, it would be time-traveling so that I could keep going back in time to when it was reading week.
+                        <strong>A:</strong> I would want the power of foresight, so I could take a peek at what gifts the future holds in store.
                     </p>
 
                   </div>

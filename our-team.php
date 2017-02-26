@@ -36,50 +36,7 @@
 <body>
 
     <!-- Navigation -->
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-        <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="index.html"><img src="img/citt_logo_white_small.png"></a>
-            </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="index.html">Home</a>
-                    </li>
-                    <li>
-                        <a class="dropdown-toggle" data-toggle="dropdown">About Us</a>
-                        <ul class="dropdown-menu">
-                          <li><a href="about.html">About Us</a></li>
-                          <li><a href="about-utsc.html">About UTSC</a></li> 
-                          <li><a href="our-team.html">Meet the Team</a></li> 
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="blog-home-1.html">Events</a>
-                    </li>
-                    <li>
-                        <a href="publications.html">Publications</a>
-                    </li>
-                    <li>
-                        <a href="contact.html">Contacts</a>
-                    </li>
-                    <li id="highlight">
-                        <a href="sign-up.html">Register</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
-    </nav>
+    <?php include 'navbar.php';?>
 
     <div class="wide small-our-team">
         <div class="col-md-3"></div>
@@ -94,81 +51,27 @@
 
 
       <!-- Modal 1---------------------------------------------------------------------->
-      <?php include 'Omer.php'?>
-      <?php include 'Bilal.php'?>
-      <?php include 'Myla.php'?>
-      <?php include 'Fiona.php'?>
-      <?php include 'Hamna.php'?>
-      <?php include 'Hamza.php'?>
-      <?php include 'Omer.php'?>
-      <?php include 'Rufaida.php'?>
-      <?php include 'Bisesh.php'?>
-      <?php include 'Sakshi.php'?>
-      <?php include 'Anantan.php'?>
-      <?php include 'Sadia.php'?>
-      <?php include 'Fasee.php'?>
-      <?php include 'Judy.php'?>
-      <?php include 'Sakeeb.php'?>
-
-
-      <!-- Modal 2---------------------------------------------------------------------->
-      <div class="modal fade" id="bilal" role="dialog">
-        <div class="modal-dialog">
-          <!-- Modal content-->
-          <div class="modal-content">
-            <div class="modal-header">
-              <button type="button" class="close" data-dismiss="modal">&times;</button>
-              <h4 class="modal-title">Omer Mustafa</h4>
-            </div>
-            <div class="modal-body">
-              <div class="row">
-                  <div class="col-md-3"></div>
-                  <div class="col-md-6">
-                      <img class="profile" src="img/profiles/Omer.jpg"/>
-                  </div>
-                  <div class="col-md-3"></div>
-              </div>
-              <br/>
-              <div class="row">
-                  <div class="col-md-12" style="text-align: center;">
-                    <p>
-                        <strong>Q:</strong> <i>What made you become part of CITT UTSC?</i>
-                        <br/>
-                        <strong>A:</strong> The desire to tackle local issues in the community. I believe that there are already many organizations looking to tackle issues seen across the globe, and I think it’s awesome that people are looking for ways to make the world a better place. But, I feel like we can do our part by looking at the specific issues that face our cities and communities and look to solve these issues through the critical viewpoints of the students of UTSC. 
-                    </p>
-                    <p>
-                        <strong>Q:</strong> <i>What is your favourite food?</i>
-                        <br/> 
-                        <strong>A:</strong> I love good food, in particular, some of my favourite foods include pizza and burgers but most of all, I love biryani.
-                    </p>
-                    <p>
-                        <strong>Q:</strong> <i>What is your favourite hobby?</i>
-                        <br/>
-                        <strong>A:</strong> One of my most favourite hobbies is to go out for a couple of hours and play soccer with my friends. 
-                    </p>
-                    <p>
-                        <strong>Q:</strong> <i>If you can have any super power, what would it be?</i>
-                        <br/>
-                        <strong>A:</strong> If I could have a superpower, it would be time-traveling so that I could keep going back in time to when it was reading week.
-                    </p>
-
-                  </div>
-              </div>
-            </div>
-            <div class="modal-footer">
-              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-            </div>
-          </div>
-        </div>
-      </div> 
-
-
+      <?php include 'Omer.php';?>
+      <?php include 'Bilal.php';?>
+      <?php include 'Myla.php';?>
+      <?php include 'Fiona.php';?>
+      <?php include 'Hamna.php';?>
+      <?php include 'Hamza.php';?>
+      <?php include 'Omer.php';?>
+      <?php include 'Rufaida.php';?>
+      <?php include 'Bisesh.php';?>
+      <?php include 'Sakshi.php';?>
+      <?php include 'Anantan.php';?>
+      <?php include 'Sadia.php';?>
+      <?php include 'Fasee.php';?>
+      <?php include 'Judy.php';?>
+      <?php include 'Sakeeb.php';?>
 
 
         <!-- Team Members ---------------------------------------------------------------------->
         <div class="row">
 
-            <div class="col-md-4 text-center" type="button" data-toggle="modal" data-target="#bilal">
+            <div class="col-md-4 text-center" type="button" data-toggle="modal" data-target="#Omer">
                 <div class="thumbnail">
                     <img class="img-responsive" src="img/profiles/Omer.jpg" alt="">
                     <div class="caption">
@@ -275,7 +178,7 @@
                     <img class="img-responsive" src="img/profiles/Anantan.jpg" alt="">
                     <div class="caption">
                         <h3>Anantan Kumarahuru<br>
-                            <small>Events Director</small>
+                            <small>Events Directoooor</small>
                         </h3>
                     </div>
                 </div>
@@ -337,17 +240,7 @@
         <hr>
 
         <!-- Footer -->
-        <footer>
-            <div class="row">
-                <div class="col-sm-5"></div>
-                <div class="col-sm-2">
-                    <a class="facebookBtn smGlobalBtn" href="social-media-profile-url" ></a>
-                    <a class="twitterBtn smGlobalBtn" href="social-media-profile-url" ></a>
-                    <a class="instagramBtn smGlobalBtn" href="social-media-profile-url" ></a>
-                </div>
-                <div class="col-sm-5"></div>
-            </div>
-        </footer>
+        <?php include 'footer.php';?>
 
     </div>
     <!-- /.container -->
