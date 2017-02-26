@@ -1,16 +1,16 @@
-      <div class="modal fade" id="Bilal" role="dialog">
+      <div class="modal fade" id="Sadia" role="dialog">
         <div class="modal-dialog">
           <!-- Modal content-->
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal">&times;</button>
-              <h4 class="modal-title">Bilal Fasihi</h4>
+              <h4 class="modal-title">Sadia Irshad</h4>
             </div>
             <div class="modal-body">
               <div class="row">
                   <div class="col-md-3"></div>
                   <div class="col-md-6">
-                      <img class="profile" src="img/profiles/Bilal.jpg"/>
+                      <img class="profile" src="img/profiles/Sadia.jpg"/>
                   </div>
                   <div class="col-md-3"></div>
               </div>
@@ -20,27 +20,27 @@
                       <p>
                         <strong>Q:</strong> <i>Program/Year?</i>
                         <br/>
-                        <strong>A:</strong> Co-op Management, Year 2.
+                        <strong>A:</strong> Co-op Management, Year 3.
                     </p>
                     <p>
                         <strong>Q:</strong> <i>What made you become part of CITT UTSC?</i>
                         <br/>
-                        <strong>A:</strong> I’ve always been interested in current world issues, the problems in society and how we’re tackling them regardless of their fields of interest (economics, politics, science etc.). In addition to this, critiquing, debating, and arguing are things I enjoy. I strive to form my own opinions, uninfluenced by media bias and peer pressure. Given these interests of mine and as one of the co-founders of CITT, CITT UTSC was pretty much a home that didn’t exist, so, I strolled over to the Department of Student Life, and here we are. 
+                        <strong>A:</strong> I joined CITT because its aim is to address important social issues and make a positive change. I love being to help others and am excited to see the impact that CITT will be able to achieve this year.
                     </p>
                     <p>
                         <strong>Q:</strong> <i>What is your favourite food?</i>
                         <br/> 
-                        <strong>A:</strong> Barbecue/Honey Barbecue chicken wings! If anyone’s looking to be part of the team, you know how to bribe me.
+                        <strong>A:</strong> My favourite food is any kind of dessert, I have the biggest sweet tooth! If given the option, I will skip dinner and jump straight to dessert.
                     </p>
                     <p>
                         <strong>Q:</strong> <i>What is your favourite hobby?</i>
                         <br/>
-                        <strong>A:</strong> I love grabbing a snack/drink and binging my favourite TV show despite the fact that I know I’m going to regret it the very next day.
+                        <strong>A:</strong> In my free time, I love to hang out with my friends, although school kind of gets in the way of that pretty often. I also spend a little too much time watching TV shows, with my current favourite being How to Get Away with Murder and The 100. 
                     </p>
                     <p>
                         <strong>Q:</strong> <i>If you can have any super power, what would it be?</i>
                         <br/>
-                        <strong>A:</strong> Teleportation without question. I can sleep in and still be on time for class!
+                        <strong>A:</strong> If I could have any super power, it would definitely be the ability to pause time so that I could procrastinate without actually wasting any time.
                     </p>
 
                   </div>

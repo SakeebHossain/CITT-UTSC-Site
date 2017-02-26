@@ -10,7 +10,7 @@
               <div class="row">
                   <div class="col-md-3"></div>
                   <div class="col-md-6">
-                      <img class="profile" src="img/profiles/Omer.jpg"/>
+                      <img class="profile" src="img/profiles/Myla.jpg"/>
                   </div>
                   <div class="col-md-3"></div>
               </div>

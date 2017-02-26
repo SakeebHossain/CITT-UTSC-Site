@@ -51,21 +51,21 @@
 
 
       <!-- Modal 1---------------------------------------------------------------------->
-      <?php include 'Omer.php';?>
-      <?php include 'Bilal.php';?>
-      <?php include 'Myla.php';?>
-      <?php include 'Fiona.php';?>
-      <?php include 'Hamna.php';?>
-      <?php include 'Hamza.php';?>
-      <?php include 'Omer.php';?>
-      <?php include 'Rufaida.php';?>
-      <?php include 'Bisesh.php';?>
-      <?php include 'Sakshi.php';?>
-      <?php include 'Anantan.php';?>
-      <?php include 'Sadia.php';?>
-      <?php include 'Fasee.php';?>
-      <?php include 'Judy.php';?>
-      <?php include 'Sakeeb.php';?>
+      <?php include 'omer.php';?>
+      <?php include 'bilal.php';?>
+      <?php include 'myla.php';?>
+      <?php include 'fiona.php';?>
+      <?php include 'hamna.php';?>
+      <?php include 'hamza.php';?>
+      <?php include 'omer.php';?>
+      <?php include 'rufaida.php';?>
+      <?php include 'bisesh.php';?>
+      <?php include 'sakshi.php';?>
+      <?php include 'anantan.php';?>
+      <?php include 'sadia.php';?>
+      <?php include 'fasee.php';?>
+      <?php include 'judy.php';?>
+      <?php include 'sakeeb.php';?>
 
 
         <!-- Team Members ---------------------------------------------------------------------->
@@ -82,7 +82,7 @@
                 </div>
             </div>
 
-            <div class="col-md-4 text-center">
+            <div class="col-md-4 text-center" type="button" data-toggle="modal" data-target="#Myla">
                 <div class="thumbnail">
                     <img class="img-responsive" src="img/profiles/Myla.jpg" alt="">
                     <div class="caption">
@@ -93,7 +93,7 @@
                 </div>
             </div>
 
-            <div class="col-md-4 text-center">
+            <div class="col-md-4 text-center" type="button" data-toggle="modal" data-target="#Bilal">
                 <div class="thumbnail">
                     <img class="img-responsive" src="img/profiles/Bilal.jpg" alt="">
                     <div class="caption">
@@ -104,7 +104,7 @@
                 </div>
             </div>
 
-            <div class="col-md-4 text-center">
+            <div class="col-md-4 text-center" type="button" data-toggle="modal" data-target="#Fiona">
                 <div class="thumbnail">
                     <img class="img-responsive" src="img/profiles/Fiona.jpg" alt="">
                     <div class="caption">
@@ -115,7 +115,7 @@
                 </div>
             </div>
 
-            <div class="col-md-4 text-center">
+            <div class="col-md-4 text-center" type="button" data-toggle="modal" data-target="#Hamna">
                 <div class="thumbnail">
                     <img class="img-responsive" src="img/profiles/Hamna.jpg" alt="">
                     <div class="caption">
@@ -126,7 +126,7 @@
                 </div>
             </div>
 
-            <div class="col-md-4 text-center">
+            <div class="col-md-4 text-center" type="button" data-toggle="modal" data-target="#Hamza">
                 <div class="thumbnail">
                     <img class="img-responsive" src="img/profiles/Hamza.jpg" alt="">
                     <div class="caption">
@@ -137,7 +137,7 @@
                 </div>
             </div>
 
-            <div class="col-md-4 text-center">
+            <div class="col-md-4 text-center" type="button" data-toggle="modal" data-target="#Rufaida">
                 <div class="thumbnail">
                     <img class="img-responsive" src="img/profiles/Rufaida.jpg" alt="">
                     <div class="caption">
@@ -149,7 +149,7 @@
             </div>
 
 
-            <div class="col-md-4 text-center">
+            <div class="col-md-4 text-center" type="button" data-toggle="modal" data-target="#Bisesh">
                 <div class="thumbnail">
                     <img class="img-responsive" src="img/profiles/Bisesh.jpg" alt="">
                     <div class="caption">
@@ -161,7 +161,7 @@
             </div>
 
 
-            <div class="col-md-4 text-center">
+            <div class="col-md-4 text-center" type="button" data-toggle="modal" data-target="#Sakshi">
                 <div class="thumbnail">
                     <img class="img-responsive" src="img/profiles/Sakshi.jpg" alt="">
                     <div class="caption">
@@ -173,7 +173,7 @@
             </div>
 
 
-            <div class="col-md-4 text-center">
+            <div class="col-md-4 text-center" type="button" data-toggle="modal" data-target="#Anantan">
                 <div class="thumbnail">
                     <img class="img-responsive" src="img/profiles/Anantan.jpg" alt="">
                     <div class="caption">
@@ -185,7 +185,7 @@
             </div>
 
 
-            <div class="col-md-4 text-center">
+            <div class="col-md-4 text-center" type="button" data-toggle="modal" data-target="#Sadia">
                 <div class="thumbnail">
                     <img class="img-responsive" src="img/profiles/Sadia.jpg" alt="">
                     <div class="caption">
@@ -197,7 +197,7 @@
             </div>
 
 
-            <div class="col-md-4 text-center">
+            <div class="col-md-4 text-center" type="button" data-toggle="modal" data-target="#Fasee">
                 <div class="thumbnail">
                     <img class="img-responsive" src="img/profiles/Fasee.jpg" alt="">
                     <div class="caption">
@@ -209,7 +209,7 @@
             </div>
 
 
-            <div class="col-md-4 text-center">
+            <div class="col-md-4 text-center" type="button" data-toggle="modal" data-target="#Judy">
                 <div class="thumbnail">
                     <img class="img-responsive" src="img/profiles/Judy.jpg" alt="">
                     <div class="caption">
@@ -221,7 +221,7 @@
             </div>
 
 
-            <div class="col-md-4 text-center">
+            <div class="col-md-4 text-center" type="button" data-toggle="modal" data-target="#Sakeeb">
                 <div class="thumbnail">
                     <img class="img-responsive" src="img/profiles/Sakeeb.jpg" alt="">
                     <div class="caption">

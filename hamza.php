@@ -1,16 +1,16 @@
-      <div class="modal fade" id="Bilal" role="dialog">
+      <div class="modal fade" id="Hamza" role="dialog">
         <div class="modal-dialog">
           <!-- Modal content-->
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal">&times;</button>
-              <h4 class="modal-title">Bilal Fasihi</h4>
+              <h4 class="modal-title">Hamza Hasnain</h4>
             </div>
             <div class="modal-body">
               <div class="row">
                   <div class="col-md-3"></div>
                   <div class="col-md-6">
-                      <img class="profile" src="img/profiles/Bilal.jpg"/>
+                      <img class="profile" src="img/profiles/Hamza.jpg"/>
                   </div>
                   <div class="col-md-3"></div>
               </div>
@@ -25,22 +25,22 @@
                     <p>
                         <strong>Q:</strong> <i>What made you become part of CITT UTSC?</i>
                         <br/>
-                        <strong>A:</strong> I’ve always been interested in current world issues, the problems in society and how we’re tackling them regardless of their fields of interest (economics, politics, science etc.). In addition to this, critiquing, debating, and arguing are things I enjoy. I strive to form my own opinions, uninfluenced by media bias and peer pressure. Given these interests of mine and as one of the co-founders of CITT, CITT UTSC was pretty much a home that didn’t exist, so, I strolled over to the Department of Student Life, and here we are. 
+                        <strong>A:</strong> After skimming through a large amount of inspiring quotes from extremely successful people and friends, I finally came across one which describes what I value and what I see in CITT: “Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy.” So I got busy and joined CITT UTSC. CITT is more than just discussing key problems, it is about putting solutions to those problems on paper and taking action! Likeminded individuals have been joining CITT’s membership to heighten our impact on our community, so join our action team!
                     </p>
                     <p>
                         <strong>Q:</strong> <i>What is your favourite food?</i>
                         <br/> 
-                        <strong>A:</strong> Barbecue/Honey Barbecue chicken wings! If anyone’s looking to be part of the team, you know how to bribe me.
+                        <strong>A:</strong> Chicken Karahi. This spicy dish is a Punjab favorite. Remember, spicy does not necessarily mean HOT! It's easy, fast and tasty.
                     </p>
                     <p>
                         <strong>Q:</strong> <i>What is your favourite hobby?</i>
                         <br/>
-                        <strong>A:</strong> I love grabbing a snack/drink and binging my favourite TV show despite the fact that I know I’m going to regret it the very next day.
+                        <strong>A:</strong> As of right now, my hobby is to write.
                     </p>
                     <p>
                         <strong>Q:</strong> <i>If you can have any super power, what would it be?</i>
                         <br/>
-                        <strong>A:</strong> Teleportation without question. I can sleep in and still be on time for class!
+                        <strong>A:</strong> Ability to live forever without breathing. I can basically explore every place not just on earth but also in outer space.
                     </p>
 
                   </div>
