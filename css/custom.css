@@ -29,8 +29,9 @@ body {
 
 .small-our-team {
   height:calc(100% - 300px);
-  background-image:url('../img/collage/collage1.jpg');
-  background-size: auto !important;
+  width:100%;
+  background-image:url('../img/profiles/group-cover.jpg');
+  background-size: cover !important;
   background-repeat: repeat !important;
   /*http://www.advantagebusinessvaluations.com/wp-content/uploads/2015/08/slide3.jpg*/
 }
@@ -138,4 +139,10 @@ hr {
 button {
   font-size: 20px !important;
   margin-left: 150px !important;
+}
+
+.profile {
+  height:auto;
+  width:300px;
+  border-radius: 30px;
 }
