@@ -42,7 +42,7 @@
     <div class="wide large">
             <div class="col-lg-5 main-logo">
                 <img src="img/citt_logo_white.png">
-                    <p>CANADIAN INTERCOLLEGIATE THINKTANK</p>
+                    <p>CANADIAN INTERCOLLEGIATE THINK TANK</p>
                     <h4>University of Toronto Scarborough</h4>
             </div>
             <div class="col-lg-7 main-logo">

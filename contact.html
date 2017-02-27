@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Contact CITT</title>
+    <title>Contact Us</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -36,56 +36,12 @@
 <body>
 
     <!-- Navigation -->
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-        <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="index.html"><img src="img/citt_logo_white_small.png"></a>
-            </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="index.html">Home</a>
-                    </li>
-                    <li>
-                        <a class="dropdown-toggle" data-toggle="dropdown">About Us</a>
-                        <ul class="dropdown-menu">
-                          <li><a href="about.html">About Us</a></li>
-                          <li><a href="about-utsc.html">About UTSC</a></li> 
-                          <li><a href="our-team.html">Meet the Team</a></li> 
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="blog-home-1.html">Events</a>
-                    </li>
-                    <li>
-                        <a href="publications.html">Publications</a>
-                    </li>
-                    <li>
-                        <a href="contact.html">Contacts</a>
-                    </li>
-                    <li id="highlight">
-                        <a href="sign-up.html">Register</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
-    </nav>
+    <?php include 'navbar.php';?>
 
     <!--header-->
     <div class="wide small">
-        <div class="col-md-3"></div>
-        <div class="col-md-6 logo">Contact Us</div>
-        <div class="col-md-3"></div>
+        <div class="col-md-5 logo">Contact Us</div>
+        <div class="col-md-7"></div>
     </div>
 
     <!-- Page Content -->
@@ -104,22 +60,22 @@
                     </p>
                     <ul class="list-unstyled list-inline list-social-icons">
                         <li>
-                            <a href="#"><i class="fa fa-facebook-square fa-2x"></i></a>
+                            <a href="https://facebook.com/profile.php?id=1820053004893941&tsid=0.532481315666647&source=typeahead"><i class="fa fa-facebook-square fa-2x"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-twitter-square fa-2x"></i></a>
+                            <a href="https://twitter.com/CITT_UTSC"><i class="fa fa-twitter-square fa-2x"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-instagram fa-2x"></i></a>
+                            <a href="https://www.instagram.com/cittutsc/"><i class="fa fa-instagram fa-2x"></i></a>
                         </li>
                     </ul>
                 
 
 
-                <!-- Embedded Google Map -->
-<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script><div style='overflow:hidden;height:400px;width:600px;'><div id='gmap_canvas' style='height:440px;width:700px;'></div><div>></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div><script type='text/javascript'>function init_map(){var myOptions = {zoom:10,center:new google.maps.LatLng(43.653226,-79.38318429999998),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(43.653226,-79.38318429999998)});infowindow = new google.maps.InfoWindow({content:'<strong>Title</strong><br>1265 Military Trail, Scarborough, ON M1C 1A4<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
+<!-- Embedded Google Map -->
+<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script><div style='overflow:hidden;height:400px;width:600px;'><div id='gmap_canvas' style='height:440px;width:650px;'></div><div>></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div><script type='text/javascript'>function init_map(){var myOptions = {zoom:10,center:new google.maps.LatLng(43.653226,-79.38318429999998),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(43.653226,-79.38318429999998)});infowindow = new google.maps.InfoWindow({content:'<strong>Title</strong><br>1265 Military Trail, Scarborough, ON M1C 1A4<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
+
             </div>
-        <!-- /.row -->
 
         <!-- Contact Form -->
         <!-- In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
@@ -163,17 +119,7 @@
         <hr>
 
         <!-- Footer -->
-        <footer>
-            <div class="row">
-                <div class="col-sm-5"></div>
-                <div class="col-sm-2">
-                    <a class="facebookBtn smGlobalBtn" href="social-media-profile-url" ></a>
-                    <a class="twitterBtn smGlobalBtn" href="social-media-profile-url" ></a>
-                    <a class="instagramBtn smGlobalBtn" href="social-media-profile-url" ></a>
-                </div>
-                <div class="col-sm-5"></div>
-            </div>
-        </footer>
+        <?php include 'footer.php';?>
 
     </div>
     <!-- /.container -->

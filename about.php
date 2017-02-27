@@ -40,7 +40,7 @@
 
     <!--header-->
     <div class="wide small">
-        <div class="col-md-5 logo">About CITT UTSC</div>
+        <div class="col-md-5 logo">About Us</div>
         <div class="col-md-7"></div>
     </div>
 
@@ -60,7 +60,6 @@
             </div>
         </div>
         <!-- /.row -->
-
 
         <hr>
 

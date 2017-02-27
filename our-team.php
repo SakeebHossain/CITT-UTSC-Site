@@ -102,7 +102,9 @@
                     </div>
                 </div>
             </div>
+        </div>
 
+        <div class="row">
             <div class="col-md-4 text-center" type="button" data-toggle="modal" data-target="#Fiona">
                 <div class="thumbnail">
                     <img class="img-responsive" src="img/profiles/Fiona.jpg" alt="">
@@ -135,7 +137,9 @@
                     </div>
                 </div>
             </div>
+          </div>
 
+          <div class="row">
             <div class="col-md-4 text-center" type="button" data-toggle="modal" data-target="#Rufaida">
                 <div class="thumbnail">
                     <img class="img-responsive" src="img/profiles/Rufaida.jpg" alt="">
@@ -170,8 +174,9 @@
                     </div>
                 </div>
             </div>
+        </div>
 
-
+        <div class="row">
             <div class="col-md-4 text-center" type="button" data-toggle="modal" data-target="#Anantan">
                 <div class="thumbnail">
                     <img class="img-responsive" src="img/profiles/Anantan.jpg" alt="">
@@ -206,8 +211,9 @@
                     </div>
                 </div>
             </div>
+          </div>
 
-
+        <div class="row">
             <div class="col-md-4 text-center" type="button" data-toggle="modal" data-target="#Judy">
                 <div class="thumbnail">
                     <img class="img-responsive" src="img/profiles/Judy.jpg" alt="">
@@ -219,7 +225,6 @@
                 </div>
             </div>
 
-
             <div class="col-md-4 text-center" type="button" data-toggle="modal" data-target="#Sakeeb">
                 <div class="thumbnail">
                     <img class="img-responsive" src="img/profiles/Sakeeb.jpg" alt="">
@@ -230,7 +235,6 @@
                     </div>
                 </div>
             </div>
-    
         </div>
         <!-- /.row -->
 

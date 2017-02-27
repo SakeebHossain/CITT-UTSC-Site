@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Contact CITT</title>
+    <title>Contact Us</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -60,22 +60,21 @@
                     </p>
                     <ul class="list-unstyled list-inline list-social-icons">
                         <li>
-                            <a href="#"><i class="fa fa-facebook-square fa-2x"></i></a>
+                            <a href="https://facebook.com/profile.php?id=1820053004893941&tsid=0.532481315666647&source=typeahead"><i class="fa fa-facebook-square fa-2x"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-twitter-square fa-2x"></i></a>
+                            <a href="https://twitter.com/CITT_UTSC"><i class="fa fa-twitter-square fa-2x"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-instagram fa-2x"></i></a>
+                            <a href="https://www.instagram.com/cittutsc/"><i class="fa fa-instagram fa-2x"></i></a>
                         </li>
                     </ul>
                 
 
 
-                <!-- Embedded Google Map -->
-<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script><div style='overflow:hidden;height:400px;width:600px;'><div id='gmap_canvas' style='height:440px;width:700px;'></div><div>></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div><script type='text/javascript'>function init_map(){var myOptions = {zoom:10,center:new google.maps.LatLng(43.653226,-79.38318429999998),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(43.653226,-79.38318429999998)});infowindow = new google.maps.InfoWindow({content:'<strong>Title</strong><br>1265 Military Trail, Scarborough, ON M1C 1A4<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
+<!-- Embedded Google Map -->
+<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script><div style='overflow:hidden;height:400px;width:400px;'><div id='gmap_canvas' style='height:440px;width:650px;'></div><div>></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div><script type='text/javascript'>function init_map(){var myOptions = {zoom:10,center:new google.maps.LatLng(43.653226,-79.38318429999998),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(43.653226,-79.38318429999998)});infowindow = new google.maps.InfoWindow({content:'<strong>Title</strong><br>1265 Military Trail, Scarborough, ON M1C 1A4<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
             </div>
-        <!-- /.row -->
 
         <!-- Contact Form -->
         <!-- In order to set the email address and subject line for the contact form go to the bin/contact_me.php file. -->
