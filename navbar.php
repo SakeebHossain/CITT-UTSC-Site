@@ -31,9 +31,9 @@
                         <a href="publications.php">Publications</a>
                     </li>
                     <li>
-                        <a href="contact.php">Contacts</a>
+                        <a href="contact.php">Contact Us</a>
                     </li>
-                    <li id="highlight">
+                    <li>
                         <a href="sign-up.php">Register</a>
                     </li>
                 </ul>

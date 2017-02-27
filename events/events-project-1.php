@@ -1,10 +1,10 @@
-                <!-- Second Blog Post -->
+                <!-- Zeroth Blog Post -->
                 <h2>
-                    Do-Nut Stress Returns!
+                    Project 1
                 </h2>
-                <p><i class="fa fa-clock-o"></i>  February 27 from 12PM - 3PM and February 28 from 11AM - 2PM &nbsp &nbsp <i class="fa fa-map-marker"></i> IC Foyer, Student Centre</p>
+
                 <a href="#">
-                    <img class="img-responsive img-hover" src="img/events/do-nut-stress-returns.jpg" alt="">
+                    <img class="img-responsive img-hover" src="img/events/project-1.jpg" alt="">
                 </a>
                 <br>
                 <p>Hungry? On your way to class? Want to avoid long lines? Have a dollar? Do not fear, DO-NUT STRESS RETURNS!</p>

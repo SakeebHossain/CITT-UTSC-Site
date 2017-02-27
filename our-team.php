@@ -182,7 +182,7 @@
                     <img class="img-responsive" src="img/profiles/Anantan.jpg" alt="">
                     <div class="caption">
                         <h3>Anantan Kumarahuru<br>
-                            <small>Events Directoooor</small>
+                            <small>Events Director</small>
                         </h3>
                     </div>
                 </div>

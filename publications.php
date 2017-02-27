@@ -43,7 +43,7 @@
 
     <!--header-->
     <div class="wide small">
-        <div class="col-md-5 logo">Publication</div>
+        <div class="col-md-5 logo">Publications</div>
         <div class="col-md-7"></div>
     </div>
 
