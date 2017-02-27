@@ -72,7 +72,7 @@
                     </div>
                     <div class="panel-body">
                         <h4>Events</h4>
-                        <p>Learn all about our upcoming and previous events.</p>
+                        <p>Get informed about all our upcoming events as well as previous ones.</p>
                         <a href="blog-home-1.php" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
