@@ -40,12 +40,12 @@
 
     <!--header-->
     <div class="wide large">
-            <div class="col-lg-5 main-logo">
+            <div class="col-lg-6 main-logo">
                 <img src="img/citt_logo_white.png">
                     <p>CANADIAN INTERCOLLEGIATE THINK TANK</p>
                     <h4>University of Toronto Scarborough</h4>
             </div>
-            <div class="col-lg-7 main-logo">
+            <div class="col-lg-6 main-logo">
                 <br>
                 <br>
                 <button type="button" class="btn btn-primary" href="#bottom">Learn More <i class="fa fa-caret-down" aria-hidden="true"></i>

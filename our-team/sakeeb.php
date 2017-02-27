@@ -40,7 +40,7 @@
                     <p>
                         <strong>Q:</strong> <i>If you can have any super power, what would it be?</i>
                         <br/>
-                        <strong>A:</strong> I hate to be basic, but being invisible on cue sounds really, really cool!
+                        <strong>A:</strong> There's just so much to do and not enough time to do it. I'd pick the power to control time.
                     </p>
 
                   </div>
