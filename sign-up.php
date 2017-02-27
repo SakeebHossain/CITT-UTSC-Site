@@ -12,7 +12,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Register</title>
+    <title>Register Now</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -43,7 +43,7 @@
 
     <!--header-->
     <div class="wide small">
-        <div class="col-md-5 logo">Sign Up</div>
+        <div class="col-md-5 logo">Register Now</div>
         <div class="col-md-7"></div>
     </div>
 

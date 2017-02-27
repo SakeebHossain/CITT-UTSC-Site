@@ -38,8 +38,9 @@ body {
 
 .large {
   height:calc(100% + 55px);
-  background-image:url('../img/collage/collage1.jpg');
-
+  background-image:url('../img/collage/handshake.jpg');
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
 }
 
 /*used for every page other than index.html*/

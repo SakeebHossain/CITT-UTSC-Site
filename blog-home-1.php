@@ -52,29 +52,38 @@
             <!-- Blog Entries Column -->
             <div class="col-md-8">
 
-                <!-- First Blog Post -->
-                <h2>
-                    <a href="blog-post.html">Do-Nut Stress</a>
-                </h2>
-                <p><i class="fa fa-clock-o"></i> November 22nd - 23rd, 1-4 PM &nbsp &nbsp <i class="fa fa-map-marker"></i> IC Foyer, Student Centre</p>
-                <a href="blog-post.html">
-                    <img class="img-responsive img-hover" src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/14054067_1179636958796290_4821637196306094660_n.jpg?oh=ea4e603404577c25e41f54db32719842&oe=58F349BF" alt="">
-                </a>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, veritatis, tempora, necessitatibus inventore nisi quam quia repellat ut tempore laborum possimus eum dicta id animi corrupti debitis ipsum officiis rerum.</p>
-
-                <hr>
-
                 <!-- Second Blog Post -->
                 <h2>
-                    <a href="blog-post.html">Event Title</a>
+                    Do-Nut Stress Returns!
                 </h2>
-                <p><i class="fa fa-clock-o"></i> Date and time &nbsp &nbsp <i class="fa fa-map-marker"></i> Location</p>
-                <a href="blog-post.html">
-                    <img class="img-responsive img-hover" src="http://placehold.it/900x300" alt="">
+                <p><i class="fa fa-clock-o"></i>  February 27 from 12PM - 3PM and February 28 from 11AM - 2PM &nbsp &nbsp <i class="fa fa-map-marker"></i> IC Foyer, Student Centre</p>
+                <a href="#">
+                    <img class="img-responsive img-hover" src="img/events/do-nut-stress-returns.jpg" alt="">
                 </a>
                 <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, quasi, fugiat, asperiores harum voluptatum tenetur a possimus nesciunt quod accusamus saepe tempora ipsam distinctio minima dolorum perferendis labore impedit voluptates!</p>
+                <p>Hungry? On your way to class? Want to avoid long lines? Have a dollar? DO-NUT fear, CITT UTSC is here!</p>
+                <p>Come by and visit us in the IC Foyer and Student Centre on February 27 from 12-3 pm and on February 28 from 11AM - 2PM and buy yourself some KRISPY KREME donuts!</p>
+                <p>** ONLY $1 EACH **</p>
+                <p>YES! For only $1 you can grab a Krispy Kreme donut and escape the stress of finals!</p>
+                <p>REMEMBER: A KRISPY KREME DONUT a day, will keep the stress away!</p>
+
+                <hr>
+                
+                <!-- First Blog Post -->
+                <h2>
+                    Do-Nut Stress
+                </h2>
+                <p><i class="fa fa-clock-o"></i> November 22nd - 23rd, 1-4 PM &nbsp &nbsp <i class="fa fa-map-marker"></i> IC Foyer, Student Centre</p>
+                <a href="#">
+                    <img class="img-responsive img-hover" src="img/events/do-nut-stress.jpg" alt="">
+                </a>
+                <br>
+                <p>Hungry? On your way to class? Want to avoid long lines? Have a dollar? DO-NUT fear, CITT UTSC is here!</p>
+                <p>Come by and visit us in the IC Foyer and Student Centre on November 22 and November 23rd, from 1PM - 4PM and buy yourself some KRISPY KREME donuts!</p>
+                <p>** ONLY $1 EACH **</p>
+                <p>YES! For only $1 you can grab a Krispy Kreme donut and escape the stress of finals!</p>
+                <p>REMEMBER: A KRISPY KREME DONUT a day, will keep the stress away!</p>
+
 
                 <!-- Pager
                 <ul class="pager">

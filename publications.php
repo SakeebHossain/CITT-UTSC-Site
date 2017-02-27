@@ -52,54 +52,7 @@
 
         <!-- Content Row -->
 
-        <!-- Publication 1 -->
-        <div class="row">
-            <div class="col-lg-4">
-                <img src="https://placehold.it/350x150">
-            </div>
-            <div class="col-lg-4">
-                <h2>Publication Title</h2>
-                <p>Publication description goes here<p>
-            </div>
-            <div class="col-lg-4">
-                <br>
-                <button type="button" class="btn btn-primary" href="#bottom">Download <i class="fa fa-download" aria-hidden="true"></i>
-            </div>
-        </div>
-
-        <hr>
-
-        <!-- Publication 2 -->
-        <div class="row">
-            <div class="col-lg-4">
-                <img src="https://placehold.it/350x150">
-            </div>
-            <div class="col-lg-4">
-                <h2>Publication Title</h2>
-                <p>Publication description goes here<p>
-            </div>
-            <div class="col-lg-4">
-                <br>
-                <button type="button" class="btn btn-primary" href="#bottom">Download <i class="fa fa-download" aria-hidden="true"></i>
-            </div>
-        </div>
-
-        <hr>
-
-        <!-- Publication 3 -->
-        <div class="row">
-            <div class="col-lg-4">
-                <img src="https://placehold.it/350x150">
-            </div>
-            <div class="col-lg-4">
-                <h2>Publication Title</h2>
-                <p>Publication description goes here<p>
-            </div>
-            <div class="col-lg-4">
-                <br>
-                <button type="button" class="btn btn-primary" href="#bottom">Download <i class="fa fa-download" aria-hidden="true"></i>
-            </div>
-        </div>
+        <?php include 'publications/project-1.php';?>
 
         <!-- /.row -->
 
